@@ -1,0 +1,15 @@
+/*
+ * Theme Name:  Authentic Child (Auto Load Next Post)
+ * Theme URI:   http://codesupply.co/
+ * Description: Authentic Child Theme with Auto Load Next Post Support
+ * Author:      Code Supply Co.
+ * Author URI:  https://autoloadnextpost.com/
+ * Template:    authentic
+ * Version:     1.0.0
+ */
+
+/* Copy any classes from parent theme here. They will override the parent's version. */
+
+hr.post-divider {
+  border: none;
+}
